@@ -4,7 +4,7 @@ This weeks assignment covers the fundamnetal concepts in Python to manipulate an
 
 1. Generate the reverse complementary sequence (opposite strand) for a given DNA string (**use string reversing option and dictionary**)
 
-2. Compute the GC content of the given unknown DNA strings and identify the name of the gene and the organism from which the sequence was obtained.
+2. Compute the GC content of the given unknown DNA strings and identify the name of the gene and the organism from which the sequence was obtained (**use NCBI-BLAST**).
 
 For both problems submit the appropriate python codes as .py files. Only for problem 2 submit an additional .doc/.pdf file containing the answers for the questions.
 
